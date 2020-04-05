@@ -1,7 +1,6 @@
 package Grazioso;
 
 // Noah Pohl
-// IT-145
 // Monkey.java
 
 public class Monkey extends RescueAnimal {
