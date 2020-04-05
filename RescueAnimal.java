@@ -1,7 +1,6 @@
 package Grazioso;
 
 //Noah Pohl
-// It-145
 // RescueAnimal.java
 
 import java.text.SimpleDateFormat;
