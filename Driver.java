@@ -3,8 +3,6 @@ package Grazioso;
 import java.util.Scanner;
 
 // Noah Pohl
-// IT-145
-// Driver.java
 
 
 public class Driver {
